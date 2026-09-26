@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "filename_a": "hand_001_front.jpg",
+    "filename_b": "hand_001_side.jpg",
+    "input_mode": "Photo"
+  },
+  "result": {
+    "backend": "random_mock",
+    "class": "normal",
+    "confidence": 0.76,
+    "need_medical_review": false,
+    "reason": "Random Mock 測試結果：未分析圖片內容。",
+    "visible_findings": []
+  }
+}

@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Test / cache
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Build / package
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+~*
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# User generated / runtime data
+uploads/
+output/
+outputs/
+temp/
+tmp/
+
+# Images generated or used for local testing
+test_images/
+generated_images/
+
+# API keys / config
+config.local.json
+secrets.json
+
+# Qt / PyInstaller
+*.spec
+*.exe
+
+# Model/cache files
+.cache/
+models/

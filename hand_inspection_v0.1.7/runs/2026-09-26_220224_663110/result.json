@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "filename_a": "ChatGPT 圖像 2026年9月26日 下午10_01_58-2.png",
+    "filename_b": "ChatGPT 圖像 2026年9月26日 下午10_01_55-1.png",
+    "input_mode": "Photo"
+  },
+  "result": {
+    "backend": "openai_api",
+    "class": "trauma",
+    "confidence": 0.98,
+    "need_medical_review": true,
+    "reason": "影像可見多處皮膚外傷、出血、瘀青與局部腫脹，但未見明顯骨性變形或異常角度；僅憑外觀無法排除深部組織或骨骼損傷。",
+    "visible_findings": [
+      "手掌及拇指根部多處割裂傷與擦傷",
+      "可見明顯出血及瘀青",
+      "手掌局部腫脹",
+      "手指整體排列未見明顯異常角度或變形"
+    ]
+  }
+}

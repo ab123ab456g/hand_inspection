@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "filename_a": "hand_001_front.jpg",
+    "filename_b": "hand_001_side.jpg",
+    "input_mode": "Photo"
+  },
+  "result": {
+    "backend": "simulation_table",
+    "case_id": "hand_001",
+    "class": "normal",
+    "confidence": 0.96,
+    "need_medical_review": false,
+    "reason": "未觀察到明顯外傷或結構異常",
+    "visible_findings": []
+  }
+}

@@ -1,0 +1,4 @@
+case_id,class,confidence,findings,reason,need_medical_review
+hand_001,normal,0.96,none,未觀察到明顯外傷或結構異常,false
+hand_002,trauma,0.92,swelling|abrasion,可見局部腫脹及表皮擦傷,true
+hand_003,suspected_fracture,0.89,deformation|abnormal_angle,手部外觀具有明顯變形與異常角度；此結果僅為模擬資料,true

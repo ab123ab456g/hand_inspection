@@ -1,0 +1,11 @@
+{
+  "input_mode": "Photo",
+  "backend": "Random Mock",
+  "openai_uri": "https://api.openai.com/v1/responses",
+  "model": "gpt-5.6-luna",
+  "custom_uri": "http://127.0.0.1:8000/predict",
+  "simulation_table": "simulation/simulation_data.csv",
+  "camera_a": null,
+  "camera_b": null,
+  "auto_save": true
+}
